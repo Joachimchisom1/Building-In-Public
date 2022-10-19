@@ -1,0 +1,22 @@
+.mgm {
+    border-radius: 7px;
+    position: fixed;
+    z-index: 90;
+    bottom: 80px;
+    right: 50px;
+    background: #fff;
+    padding: 10px 27px;
+    box-shadow: 0px 5px 13px 0px rgba(0, 0, 0, .3);
+}
+
+.mgm a {
+    font-weight: 700;
+    display: block;
+    color: #f2d516;
+}
+
+.mgm a,
+.mgm a:active {
+    transition: all .2s ease;
+    color: #f2d516;
+}
